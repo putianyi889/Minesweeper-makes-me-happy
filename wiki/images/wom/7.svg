@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<svg data-name="1" id="_1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>
+            .cls-1{fill:#21b513;}.cls-1,.cls-2,.cls-3,.cls-4{stroke:#222;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}.cls-2{fill:#00a100;}.cls-3{fill:#70e070;}.cls-4{fill:#5dd057;}
+        </style>
+    </defs>
+    <title/>
+    <polygon class="cls-1" points="47 45.003 32 54.003 17 45.003 17 18.997 32 9.997 47 18.997 47 45.003"/>
+    <polygon class="cls-1" points="11 15.6 17 18.997 32 9.997 32 3 11 15.6"/>
+    <polygon class="cls-2" points="11 15.6 11 48.4 17 45.003 17 18.997 11 15.6"/>
+    <polygon class="cls-3" points="17 45.003 11 48.4 32 61 32 54.003 17 45.003"/>
+    <polygon class="cls-3" points="53 15.6 47 18.997 32 9.997 32 3 53 15.6"/>
+    <polygon class="cls-2" points="53 15.6 53 48.4 47 45.003 47 18.997 53 15.6"/>
+    <polygon class="cls-1" points="47 45.003 53 48.4 32 61 32 54.003 47 45.003"/>
+    <rect class="cls-3" height="14.0059" width="12" x="26" y="24.9971"/>
+    <polygon class="cls-2" points="47 18.997 38 24.997 32 24.997 32 9.997 47 18.997"/>
+    <polygon class="cls-4" points="17 18.997 26 24.997 32 24.997 32 9.997 17 18.997"/>
+    <polygon class="cls-4" points="47 45.003 38 39.003 32 39.003 32 54.003 47 45.003"/>
+    <polygon class="cls-2" points="17 45.003 26 39.003 32 39.003 32 54.003 17 45.003"/>
+</svg>
