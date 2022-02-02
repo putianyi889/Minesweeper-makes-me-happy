@@ -1,0 +1,8 @@
+<svg height="512" viewBox="0 0 64 64" width="512" xmlns="http://www.w3.org/2000/svg">
+    <g id="Plus_sign" data-name="Plus sign">
+        <circle cx="32" cy="32" fill="#f09000" r="32"/>
+        <circle cx="32" cy="32" fill="#fff7f0" r="27"/>
+        <path d="m45 27h-8v-8a1 1 0 0 0 -1-1h-8a1 1 0 0 0 -1 1v8h-8a1 1 0 0 0 -1 1v8a1 1 0 0 0 1 1h8v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1v-8h8a1 1 0 0 0 1-1v-8a1 1 0 0 0 -1-1z"
+              fill="#f09000"/>
+    </g>
+</svg>
